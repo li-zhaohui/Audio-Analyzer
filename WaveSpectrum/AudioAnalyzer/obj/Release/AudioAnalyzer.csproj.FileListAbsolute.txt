@@ -1,0 +1,10 @@
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\bin\Release\AudioAnalyzer.exe.config
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\bin\Release\AudioAnalyzer.exe
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\bin\Release\AudioAnalyzer.pdb
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\obj\Release\AudioAnalyzer.csprojAssemblyReference.cache
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\obj\Release\AudioAnalyzer.Form1.resources
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\obj\Release\AudioAnalyzer.Properties.Resources.resources
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\obj\Release\AudioAnalyzer.csproj.GenerateResource.cache
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\obj\Release\AudioAnalyzer.csproj.CoreCompileInputs.cache
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\obj\Release\AudioAnalyzer.exe
+D:\Task\004_Current\AudioAnalyzer\WaveSpectrum\AudioAnalyzer\obj\Release\AudioAnalyzer.pdb
